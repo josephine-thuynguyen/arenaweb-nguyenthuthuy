@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'SteelTongs';
+    src: url('SteelTongs.eot');
+    src: url('SteelTongs.eot?#iefix') format('embedded-opentype'),
+        url('SteelTongs.woff2') format('woff2'),
+        url('SteelTongs.woff') format('woff'),
+        url('SteelTongs.ttf') format('truetype'),
+        url('SteelTongs.svg#SteelTongs') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halagar';
+    src: url('Halagar-ExtraBold.eot');
+    src: url('Halagar-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Halagar-ExtraBold.woff2') format('woff2'),
+        url('Halagar-ExtraBold.woff') format('woff'),
+        url('Halagar-ExtraBold.ttf') format('truetype'),
+        url('Halagar-ExtraBold.svg#Halagar-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sleepy Moody';
+    src: url('SleepyMoody.eot');
+    src: url('SleepyMoody.eot?#iefix') format('embedded-opentype'),
+        url('SleepyMoody.woff2') format('woff2'),
+        url('SleepyMoody.woff') format('woff'),
+        url('SleepyMoody.ttf') format('truetype'),
+        url('SleepyMoody.svg#SleepyMoody') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monica Angeles';
+    src: url('MonicaAngelesRegular.eot');
+    src: url('MonicaAngelesRegular.eot?#iefix') format('embedded-opentype'),
+        url('MonicaAngelesRegular.woff2') format('woff2'),
+        url('MonicaAngelesRegular.woff') format('woff'),
+        url('MonicaAngelesRegular.ttf') format('truetype'),
+        url('MonicaAngelesRegular.svg#MonicaAngelesRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hello Valentica';
+    src: url('HelloValentica-Regular.eot');
+    src: url('HelloValentica-Regular.eot?#iefix') format('embedded-opentype'),
+        url('HelloValentica-Regular.woff2') format('woff2'),
+        url('HelloValentica-Regular.woff') format('woff'),
+        url('HelloValentica-Regular.ttf') format('truetype'),
+        url('HelloValentica-Regular.svg#HelloValentica-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
